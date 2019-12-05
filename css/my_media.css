@@ -1,0 +1,26 @@
+
+/* на sm */
+
+@media (min-width: 768px) {
+    html {
+        font-size: 14px;
+    }
+}
+
+
+/* на md */
+
+@media (min-width: 992px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+
+/* на lg */
+
+@media (min-width: 1200px) {
+    html {
+        font-size: 18px;
+    }
+}
