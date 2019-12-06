@@ -6,12 +6,12 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    opacity: 0.9;
+    /* opacity: 0.9; */
     color: whitesmoke;
 }
 
 .f-line__img {
-    width: 120px;
+    width: 100px;
     height: auto;
     /* box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.6); */
     /* box-shadow: 0px 0px 5px #ff00ff; */
@@ -22,15 +22,16 @@
 }
 
 .f-line__person {
+    font-size: 1.1rem;
     line-height: 1.1;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 .f-line__h2 {}
 
 .t-sh {
     /* text-shadow: black 1px 1px 3px; */
-    text-shadow: #000000 1px 1px 2px;
+    text-shadow: #000000 1px 1px 3px;
 }
 
 .f-line__adv {
@@ -46,14 +47,14 @@
 .card-title {
     /* добавляем к бутстрапу */
     font-family: 'Montserrat', sans-serif;
-    line-height: 1.2;
+    /* line-height: 1.2; */
     font-weight: 600;
     color: rgba(0, 0, 0, 0.9);
 }
 
 .card-text {
     /* добавляем к бутстрапу */
-    line-height: 1.4;
+    /* line-height: 1.4; */
     font-weight: 500;
     color: darkslategrey;
 }
