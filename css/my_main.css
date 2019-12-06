@@ -17,14 +17,19 @@
     /* box-shadow: 0px 0px 5px #ff00ff; */
 }
 
+.f-line__img-size {
+    width: 100px;
+    height: 115px;
+}
+
 .f-line__title {
     /* font-family: 'Montserrat', sans-serif; */
 }
 
 .f-line__person {
     font-size: 1.1rem;
-    line-height: 1.1;
-    font-weight: 400;
+    line-height: 1.2;
+    font-weight: 300;
 }
 
 .f-line__h2 {}
@@ -46,7 +51,7 @@
 
 .card-title {
     /* добавляем к бутстрапу */
-    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Montserrat', sans-serif; */
     /* line-height: 1.2; */
     font-weight: 600;
     color: rgba(0, 0, 0, 0.9);
