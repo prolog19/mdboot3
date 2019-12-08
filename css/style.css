@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Raleway:400,700&display=swap");
+/* @import url("https://fonts.googleapis.com/css?family=Raleway:400,700&display=swap"); */
 @import url("https://fonts.googleapis.com/css?family=Merriweather:400,700&display=swap&subset=cyrillic");
 @import url("../css/my_media.css");
 @import url("../css/my_main.css");
@@ -24,7 +24,7 @@ body {
 }
 
 /* Страница Цигун */
-#qigong {
+#qigong-page {
   /* horizontal vertical  */
   background: url("../img/s1200.webp") no-repeat 50% 0% fixed;
   -webkit-background-size: cover;
