@@ -1,58 +1,66 @@
-/* @import url("https://fonts.googleapis.com/css?family=Raleway:400,700&display=swap"); */
-@import url("https://fonts.googleapis.com/css?family=Merriweather:400,700&display=swap&subset=cyrillic");
+/* @import url("https://fonts.googleapis.com/css?family=Raleway:400,500,600,700&display=swap"); */
+
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700,900&display=swap&subset=cyrillic');
 @import url("../css/my_media.css");
 @import url("../css/my_main.css");
 body {
-  font-family: "Merriweather", serif;
-  /* font-family: 'Raleway', serif; */
-  font-size: 14px;
+    font-family: "Merriweather", serif;
+    /* font-family: 'Raleway', serif; */
+    font-size: 14px;
 }
+
+
 /* Главная страница */
+
 #intro {
-  /* horizontal vertical  */
-  background: url("../img/camp2.jpg") no-repeat 50% 20% fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  height: 100vh;
+    /* horizontal vertical  */
+    background: url("../img/camp2.jpg") no-repeat 50% 20% fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
 }
 
 .navbar-brand img {
-  width: 40px;
-  height: auto;
+    width: 40px;
+    height: auto;
 }
 
+
 /* Страница Цигун */
-#qigong-page {
-  /* horizontal vertical  */
-  background: url("../img/s1200.webp") no-repeat 50% 0% fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  height: 90vh;
+
+#qigong-intro {
+    /* horizontal vertical  */
+    background: url("../img/s1200.webp") no-repeat 50% 0% fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 90vh;
 }
+
 
 /* .wrap {
     max-width: 1280px;
     margin: 0 auto;
 } */
 
+
 /* Код рекомендация МДБ */
 
 .top-nav-collapse {
-  background-color: #24355c;
+    background-color: #24355c;
 }
 
 @media (max-width: 768px) {
-  .navbar:not(.top-nav-collapse) {
-    background-color: #24355c;
-  }
+    .navbar:not(.top-nav-collapse) {
+        background-color: #24355c;
+    }
 }
 
 @media (min-width: 800px) and (max-width: 850px) {
-  .navbar:not(.top-nav-collapse) {
-    background-color: #24355c;
-  }
+    .navbar:not(.top-nav-collapse) {
+        background-color: #24355c;
+    }
 }

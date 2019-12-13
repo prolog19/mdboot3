@@ -1,6 +1,10 @@
 
-
-
+-- Школа практик --  
+Современный Мир становится все более открытым. Знания, прежде недоступные... Сегодня бери и учись! 
+Возможности, раньше казавшиеся фантастическими... Сейчас на кончиках пальцев. 
+<br>Мир становится стремителен и сложен. Как постигать его, чтобы по-настоящему воспользоваться его чудесами. 
+Мы об этом - реально учим практикам становления, саморазвития, постижения силы и мудрости. 
+ 
 
 -- Йога Мини -- 
 Мы освоим базовый комплекс регулярной практики, который освежит ваше Тело, сделает его более гибким и сильным, 
@@ -19,3 +23,35 @@
 
 
 
+<div class="card-text text-justify">
+<p class="my-lg-0"> <span class="card-text_bold"> </span> </p>
+<p class="my-lg-0"> <span class="card-text_bold"> </span> </p>
+<p class="my-lg-0"> <span class="card-text_bold"> </span> </p>
+<p class="my-lg-0"> <span class="card-text_bold"> </span> </p>
+<!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
+<!-- <a href="qigong.html" class="btn blue-gradient card-btn__anons">Узнать больше...</a> -->
+<a href="qigong.html" class="btn btn-outline-secondary rounded card-btn__anons">Узнать больше...</a>
+</div>
+							
+							
+            <div class="card card__bord mb-3 z-depth-2">
+                <div class="row no-gutters align-items-center">
+                    <div class="col-md-6">
+                        <img src="img/400x250.png" class="card-img" alt="...">
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card-body">
+                            <h3 class="card-title">Цигун. Регулярная практика</h3>
+                            <div class="card-text text-justify">
+                                <p class="my-lg-0"> <span class="card-text_bold"> </span> </p>
+                                <p class="my-lg-0"> <span class="card-text_bold"> </span> </p>
+                                <p class="my-lg-0"> <span class="card-text_bold"> </span> </p>
+                                <p class="my-lg-0"> <span class="card-text_bold"> </span> </p>
+                                <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
+                                <!-- <a href="qigong.html" class="btn blue-gradient card-btn__anons">Узнать больше...</a> -->
+                                <a href="qigong.html" class="btn btn-outline-secondary rounded card-btn__anons">Узнать больше...</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>

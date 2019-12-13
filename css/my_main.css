@@ -1,5 +1,9 @@
 .nav-link {
-    font-size: 1.1rem;
+    font-size: 1.0rem;
+}
+
+p {
+    text-indent: 3vh;
 }
 
 
@@ -37,8 +41,6 @@
     font-weight: 300;
 }
 
-.f-line__h2 {}
-
 .t-sh {
     /* text-shadow: black 1px 1px 3px; */
     text-shadow: #000000 1px 1px 3px;
@@ -58,26 +60,37 @@
     /* добавляем к бутстрапу */
     /* font-family: 'Montserrat', sans-serif; */
     /* line-height: 1.2; */
-    font-weight: 600;
-    color: rgba(0, 0, 0, 0.9);
+    font-weight: 900;
+    color: rgba(0, 0, 0, 1);
 }
 
 .card-text {
     /* добавляем к бутстрапу */
     /* line-height: 1.4; */
-    font-weight: 500;
-    color: darkslategrey;
+    font-weight: 400;
+    /* color: rgba(0, 0, 0, 0.9); */
+    color: #739590;
 }
 
-.card-text__adv {
-    font-weight: 600;
-    color: darkslateblue;
+.card-text_bold {
+    font-weight: 700;
+    color: darkslategrey;
 }
 
 .card__bord {
     border: 3px dashed #739590;
     border-spacing: 5px;
     padding: 3px;
+}
+
+.card-btn__anons {
+    font-weight: bold;
+    font-size: 0.8rem;
+}
+
+.card-title_shadow {
+    /* text-shadow: rgba(3, 3, 3, 0.5) 2px 2px 2px; */
+    text-shadow: 1px 0px #ffffff, 0px 1px #ffffff, -1px 0px #ffffff, 0px -1px #ffffff, 0px 0px 5px teal;
 }
 
 
