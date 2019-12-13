@@ -9,15 +9,16 @@ p {
 
 /* F-LINE  */
 
-.f-line {
-    /* background-color: #be5164; */
+
+/* .f-line {
+    background-color: #be5164;
     background-image: url(../img/grad2.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    /* opacity: 0.9; */
+    opacity: 0.9;
     color: whitesmoke;
-}
+} */
 
 .f-line__img {
     width: 100px;
@@ -31,9 +32,10 @@ p {
     height: 115px;
 }
 
-.f-line__title {
-    /* font-family: 'Montserrat', sans-serif; */
-}
+
+/* .f-line__title {
+    font-family: 'Montserrat', sans-serif;
+} */
 
 .f-line__person {
     font-size: 1.1rem;
@@ -41,17 +43,19 @@ p {
     font-weight: 300;
 }
 
-.t-sh {
-    /* text-shadow: black 1px 1px 3px; */
-    text-shadow: #000000 1px 1px 3px;
-}
 
-.f-line__adv {
-    /* background-color: #da8eb4; */
+/* .t-sh {
+    text-shadow: black 1px 1px 3px;
+    text-shadow: #000000 1px 1px 3px;
+} */
+
+
+/* .f-line__adv {
+    background-color: #da8eb4;
     background-image: url("../img/w2.jpg");
     background-position: center;
     background-size: cover;
-}
+} */
 
 
 /* CARD */
@@ -74,7 +78,8 @@ p {
 
 .card-text_bold {
     font-weight: 700;
-    color: darkslategrey;
+    /* color: darkslategrey; */
+    color: #436c34;
 }
 
 .card__bord {
@@ -88,9 +93,10 @@ p {
     font-size: 0.8rem;
 }
 
-.card-title_shadow {
+.card-title_decor {
     /* text-shadow: rgba(3, 3, 3, 0.5) 2px 2px 2px; */
-    text-shadow: 1px 0px #ffffff, 0px 1px #ffffff, -1px 0px #ffffff, 0px -1px #ffffff, 0px 0px 5px teal;
+    /* text-shadow: 1px 0px #ffffff, 0px 1px #ffffff, -1px 0px #ffffff, 0px -1px #ffffff, 0px 0px 5px teal; */
+    /* color: #436c34; */
 }
 
 
