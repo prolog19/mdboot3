@@ -93,6 +93,28 @@ p {
   /* color: #436c34; */
 }
 
+.info {
+  font-size: 1.1rem;
+  /* color: #617056; */
+  color: darkslategrey;
+}
+.info_adv {
+  /* font-weight: bold; */
+  font-size: 1.15rem;
+  font-style: italic;
+  color: #564726;
+  text-shadow: yellow 0px 0px 15px;
+}
+.info_color1 {
+  background-color: #e6ecd0;
+}
+.info_color2 {
+  background-color: #e0f2ff;
+}
+.info_color3 {
+  background-color: #eadcc1;
+}
+
 /* GALLERY */
 
 @media (min-width: 992px) {
