@@ -1,5 +1,5 @@
 .nav-link {
-    font-size: 1rem;
+    font-size: 0.9rem;
 }
 
 p {
@@ -79,7 +79,8 @@ p {
     font-size: 1.0rem;
     font-style: italic;
     color: #564726;
-    text-shadow: yellow 0px 0px 15px;
+    /* text-shadow: yellow 0px 0px 15px; */
+    background-color: lightcyan;
 }
 
 .info_color1 {
@@ -97,6 +98,15 @@ p {
 .img_small {
     min-width: 300px;
     max-width: 420px;
+    width: 100%;
+    /* padding: 5px 10px; */
+    height: auto;
+}
+
+.card-img {
+    /* добавляем к бутстрапу */
+    min-width: 300px;
+    max-width: 500px;
     width: 100%;
     /* padding: 5px 10px; */
     height: auto;
