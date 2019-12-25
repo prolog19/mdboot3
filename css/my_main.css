@@ -120,6 +120,11 @@ p {
     height: auto;
 }
 
+.footer__contacts_brd {
+    border: snow solid 1px;
+    border-radius: 3px;
+}
+
 
 /* ----------  */
 
