@@ -20,10 +20,6 @@ p {
   height: 115px;
 }
 
-/* .f-line__title {
-    font-family: 'Montserrat', sans-serif;
-} */
-
 .f-line__person {
   font-size: 1.1rem;
   line-height: 1.2;
@@ -97,18 +93,6 @@ p {
   background-color: lightcyan;
 }
 
-.info_color1 {
-  background-color: #e6ecd0;
-}
-
-.info_color2 {
-  background-color: #e0f2ff;
-}
-
-.info_color3 {
-  background-color: #eadcc1;
-}
-
 .img_small-vert {
   max-height: 430px;
   width: auto;
@@ -129,6 +113,11 @@ p {
   border-radius: 3px;
 }
 
+.footer__anchor {
+  font-style: italic;
+  text-decoration: underline;
+  text-decoration-color: aquamarine;
+}
 /* ----------  */
 
 /* NOT IN USE  */
@@ -175,4 +164,17 @@ p {
 /* .img_right {
     float: right;
     margin-left: 5px;
+} */
+
+/* 
+.info_color1 {
+  background-color: #e6ecd0;
+}
+
+.info_color2 {
+  background-color: #e0f2ff;
+}
+
+.info_color3 {
+  background-color: #eadcc1;
 } */
