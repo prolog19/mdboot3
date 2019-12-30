@@ -1,128 +1,135 @@
 .nav-link {
-  font-size: 0.9rem;
+    font-size: 0.9rem;
 }
 
 p {
-  text-indent: 3vh;
+    text-indent: 3vh;
 }
+
 
 /* F-LINE  */
 
 .f-line__img {
-  width: 100px;
-  height: auto;
-  /* box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.6); */
-  /* box-shadow: 0px 0px 5px #ff00ff; */
+    width: 100px;
+    height: auto;
+    /* box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.6); */
+    /* box-shadow: 0px 0px 5px #ff00ff; */
 }
 
 .f-line__img-size {
-  width: 100px;
-  height: 115px;
+    width: 100px;
+    height: 115px;
 }
 
 .f-line__person {
-  font-size: 1.1rem;
-  line-height: 1.2;
-  font-weight: 300;
+    font-size: 1.1rem;
+    line-height: 1.2;
+    font-weight: 300;
 }
+
 
 /* CARD */
 
 .card-title {
-  /* добавляем к бутстрапу */
-  /* font-family: 'Montserrat', sans-serif; */
-  /* line-height: 1.2; */
-  font-weight: 900;
-  color: rgba(0, 0, 0, 1);
+    /* добавляем к бутстрапу */
+    /* font-family: 'Montserrat', sans-serif; */
+    /* line-height: 1.2; */
+    font-weight: 900;
+    color: rgba(0, 0, 0, 1);
 }
 
 .card-text {
-  /* добавляем к бутстрапу */
-  /* line-height: 1.4; */
-  font-weight: 400;
-  /* color: rgba(0, 0, 0, 0.9); */
-  color: #739590;
+    /* добавляем к бутстрапу */
+    /* line-height: 1.4; */
+    font-weight: 400;
+    /* color: rgba(0, 0, 0, 0.9); */
+    color: #739590;
 }
 
 .card-text_bold {
-  /* font-weight: 700; */
-  /* color: darkslategrey; */
-  /* color: #436c34; */
-  font-size: 105%;
-  font-style: italic;
-  color: mediumblue;
-  /* background-color: lightcyan; */
-  /* text-shadow: yellow 0px 0px 4px; */
-  text-shadow: 1px 0px #ffffff, 0px 1px #ffffff, -1px 0px #ffffff,
-    0px -1px #ffffff, 0px 0px 5px blueviolet;
+    /* font-weight: 700; */
+    /* color: darkslategrey; */
+    /* color: #436c34; */
+    font-size: 105%;
+    font-style: italic;
+    color: mediumblue;
+    /* background-color: lightcyan; */
+    /* text-shadow: yellow 0px 0px 4px; */
+    text-shadow: 1px 0px #ffffff, 0px 1px #ffffff, -1px 0px #ffffff, 0px -1px #ffffff, 0px 0px 5px blueviolet;
 }
 
 .card__img_vertical {
-  overflow: hidden;
+    overflow: hidden;
+    justify-content: center;
 }
 
 .card__bord {
-  border: 3px dashed #739590;
-  border-spacing: 5px;
-  padding: 3px;
+    border: 3px dashed #739590;
+    border-spacing: 5px;
+    padding: 3px;
 }
 
 .card-btn__anons {
-  font-weight: bold;
-  font-size: 0.8rem;
+    font-weight: bold;
+    font-size: 0.8rem;
 }
 
 .intro-p {
-  font-size: 1.1rem;
-  /* color: #617056; */
-  color: darkslategrey;
+    font-size: 1.1rem;
+    /* color: #617056; */
+    color: darkslategrey;
 }
 
 .info {
-  font-size: 0.9rem;
-  /* color: #617056; */
-  color: darkslategrey;
+    font-size: 0.9rem;
+    /* color: #617056; */
+    color: darkslategrey;
 }
 
 .info_adv {
-  /* font-weight: bold; */
-  font-size: 1rem;
-  font-style: italic;
-  color: #564726;
-  /* text-shadow: yellow 0px 0px 15px; */
-  background-color: lightcyan;
+    /* font-weight: bold; */
+    font-size: 1rem;
+    font-style: italic;
+    color: #564726;
+    /* text-shadow: yellow 0px 0px 15px; */
+    background-color: lightcyan;
 }
 
 .img_small-vert {
-  max-height: 430px;
-  width: auto;
-  /* flex-shrink: 0; */
+    max-height: 430px;
+    width: auto;
+    /* flex-shrink: 0; */
 }
 
 .img_small {
-  /* добавляем к бутстрапу */
-  min-width: 300px;
-  max-width: 500px;
-  width: 100%;
-  /* padding: 5px 10px; */
-  height: auto;
+    /* добавляем к бутстрапу */
+    min-width: 300px;
+    max-width: 500px;
+    width: 100%;
+    /* padding: 5px 10px; */
+    height: auto;
 }
 
 .footer__contacts_brd {
-  border: snow solid 1px;
-  border-radius: 3px;
+    border: snow solid 1px;
+    border-radius: 3px;
 }
 
 .footer__anchor {
-  font-style: italic;
-  text-decoration: underline;
-  text-decoration-color: aquamarine;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: aquamarine;
 }
+
+
 /* ----------  */
+
 
 /* NOT IN USE  */
 
+
 /* ----------- */
+
 
 /* .f-line {
     background-color: #be5164;
@@ -134,14 +141,17 @@ p {
     color: whitesmoke;
 } */
 
+
 /* .brd {
     border: red solid 1px;
 } */
+
 
 /* .t-sh {
     text-shadow: black 1px 1px 3px;
     text-shadow: #000000 1px 1px 3px;
 } */
+
 
 /* .f-line__adv {
     background-color: #da8eb4;
@@ -150,21 +160,25 @@ p {
     background-size: cover;
 } */
 
+
 /* .card-title_decor {
     text-shadow: rgba(3, 3, 3, 0.5) 2px 2px 2px; 
     text-shadow: 1px 0px #ffffff, 0px 1px #ffffff, -1px 0px #ffffff, 0px -1px #ffffff, 0px 0px 5px teal;
     color: #436c34; 
 } */
 
+
 /* .img_left {
     float: left;
     margin-right: 5px;
 } */
 
+
 /* .img_right {
     float: right;
     margin-left: 5px;
 } */
+
 
 /* 
 .info_color1 {
